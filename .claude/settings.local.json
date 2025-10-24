@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nInitial commit: Project setup complete\n\nPhase 1 완료:\n- Monorepo 구조 (client, server, shared)\n- React + Vite + TypeScript frontend\n- Node.js + Express + TypeScript backend\n- ESLint + Prettier 설정\n- 환경변수 템플릿\n- Git 저장소 초기화\n- README.md 문서화\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(tree:*)",
+      "Bash(npm install)",
+      "Bash(npm run dev:*)",
+      "Bash(curl:*)",
+      "Bash(taskkill:*)",
+      "Bash(netstat:*)",
+      "Bash(cmd //c taskkill //F //PID 16196)",
+      "Bash(python:*)",
+      "Bash(npm install:*)",
+      "Bash(git config:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
