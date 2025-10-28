@@ -1,14 +1,5 @@
 # CLAUDE.md
 
-## github 푸쉬를 위해 다음 정보 사용:
-GIT HUB의 Personal Access Token: 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
-
-GitHub 주소: https://github.com/setchan2/Try0001
-
-## 원격 저장소에 푸시할 때, 먼저 HTTP 버퍼 크기를 늘리고 조금 씩 나누어 푸시할 것. 에러 시 작은 변경사항만 포함하는 새커밋을 만들어 푸시할 것
-
-## github cli설치했어. gh 명령어 사용 가능해. 이걸로 github 처리해줘. 
-
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## Project Overview
